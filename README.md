@@ -21,8 +21,8 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Frontend Mentor IO Solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-4thGx7DsIJ)
-- Live Site URL: [Hosted on GitHub Pages](https://filipjanik00.github.io/stats-preview-card-component-main/)
+- Solution URL: [Frontend Mentor IO Solution](https://www.frontendmentor.io/solutions/faq-accordion-VTCp8pW15u)
+- Live Site URL: [Hosted on GitHub Pages](https://filipjanik00.github.io/faq-accordion-main/)
 
 ## My process
 
